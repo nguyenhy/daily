@@ -28,6 +28,9 @@ go.work
 /vendor/
 /Godeps/
 
+### go profiling file
+*.pprof
+
 ### Lua ###
 # Compiled Lua sources
 luac.out
