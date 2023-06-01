@@ -1,20 +1,8 @@
 /*
- - problem: https://leetcode.com/problems/two-sum
- - solution: https://www.code-recipe.com/post/two-sum
+- problem: https://leetcode.com/problems/two-sum
+- solution: https://www.code-recipe.com/post/two-sum
 */
 package main
-
-import (
-	"fmt"
-)
-
-func main() {
-
-	nums := []int{2, 2, 7, 15}
-	target := 9
-
-	fmt.Println(twoSum(nums, target))
-}
 
 func twoSum(nums []int, target int) []int {
 	// create map of [value:index]

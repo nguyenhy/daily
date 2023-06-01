@@ -1,22 +1,9 @@
+package main
+
 /*
  - problem: https://leetcode.com/problems/valid-parentheses/
  - solution:
 */
-package main
-
-import (
-	"fmt"
-)
-
-func main() {
-
-	fmt.Println(isValid("[") == false)
-	fmt.Println(isValid("[)") == false)
-	fmt.Println(isValid("{[]}") == true)
-	fmt.Println(isValid("{][}") == false)
-	fmt.Println(isValid("{][]}") == false)
-
-}
 
 func isValid(s string) bool {
 	rawLength := len(s)

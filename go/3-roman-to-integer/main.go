@@ -1,20 +1,8 @@
 /*
- - problem: https://leetcode.com/problems/roman-to-integer/
- - solution:
+- problem: https://leetcode.com/problems/roman-to-integer/
+- solution:
 */
 package main
-
-import (
-	"fmt"
-)
-
-func main() {
-	test := []string{"III", "II", "IV", "V", "VI", "VII", "VIII", "IX", "XII", "XIII", "XIV", "XIX", "MCMXCIV", "XC"}
-	for i := 0; i < len(test); i++ {
-		fmt.Println(test[i], romanToInt(test[i]))
-		fmt.Println("----------------------")
-	}
-}
 
 func romanToInt(s string) int {
 

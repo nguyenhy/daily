@@ -1,17 +1,12 @@
 /*
- - problem: https://leetcode.com/problems/palindrome-number/
- - solution: https://www.code-recipe.com/post/palindrome-number
+- problem: https://leetcode.com/problems/palindrome-number/
+- solution: https://www.code-recipe.com/post/palindrome-number
 */
 package main
 
 import (
-	"fmt"
 	"strconv"
 )
-
-func main() {
-	fmt.Println(isPalindromeSol2(121))
-}
 
 func isPalindromeSol1(x int) bool {
 	if x < 0 {
