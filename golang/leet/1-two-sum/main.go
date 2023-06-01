@@ -2,7 +2,7 @@
 - problem: https://leetcode.com/problems/two-sum
 - solution: https://www.code-recipe.com/post/two-sum
 */
-package main
+package twosum
 
 func twoSum(nums []int, target int) []int {
 	// create map of [value:index]

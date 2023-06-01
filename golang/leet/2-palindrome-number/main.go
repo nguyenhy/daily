@@ -2,7 +2,7 @@
 - problem: https://leetcode.com/problems/palindrome-number/
 - solution: https://www.code-recipe.com/post/palindrome-number
 */
-package main
+package palindromenumber
 
 import (
 	"strconv"

@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75
-package main
+package gcdofstrings
 
 func gcd(x int, y int) int {
 	if y == 0 {

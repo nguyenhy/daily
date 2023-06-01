@@ -2,7 +2,7 @@
 - problem: https://leetcode.com/problems/roman-to-integer/
 - solution:
 */
-package main
+package romantointeger
 
 func romanToInt(s string) int {
 
