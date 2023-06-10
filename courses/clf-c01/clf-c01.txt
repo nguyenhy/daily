@@ -1,0 +1,65 @@
+course name: AWS Certified Cloud Practitioner Certification Course (CLF-C01)
+course url : https://www.youtube.com/watch?v=SOTamWNgDKc
+
+1. Cloud Concepts
+- definition of cloud computing
+    - on-premise
+    - cloud providers
+
+- evolution of cloud hosting
+    - dedicated server
+    - virtual private server (vps)
+    - shared hosting
+    - cloud hosting
+    # pros/cons
+
+- what is amazon?
+    - Seattle, Washington
+    - start as a book seller
+    - online e-commerce store
+    - aws
+
+- what is AWS
+    - old/new logo
+    - 2006
+    - leading cloud service provider
+    - first service: Simple Queue Service - SQS 2004
+    - S3: 2006
+    - EC2: 2006
+    - training, skills standardization
+    - offering a certification program for computer engineer on april 2013
+
+- what is a Cloud service provider vs platform service
+    - provide multiple cloud service
+    - can chain together
+    - access via single unified API
+    - metered billing base on usage
+    - rich mornitoring built in
+    - has a Infrastructure as a SErvice Iaas offering
+    - offers automation via infrastructure as code IaC
+
+
+- Landscape of CSPs
+    - Tier 1
+        - early to market, wide offering, sotrong synergies between services, well recognized in the industry
+        - AWS
+        - Azure
+        - Google Cloud platform
+        - Alaibaba Cloud
+    - Tier 2: mid tier
+        - backed by well-known tech companies
+        - slow to innovate and turned to specialization
+        - IBM cloud
+        - Oracle cloud
+        - Rackspace OpenStack
+    - tier 3: lighttier
+        - VPS turned to offer core IaaS oferring
+            - vultr
+            - Digital Ocean
+            - Linode
+
+- Gartner Magic Quadrant for Cloud
+    - definition of Magic Quadrant (MQ)
+
+- Common Cloud services
+    - can have hundered of Cloud service
